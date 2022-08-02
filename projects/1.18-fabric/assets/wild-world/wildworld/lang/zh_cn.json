@@ -1,10 +1,21 @@
 {
-  "block.wildworld.green_glowshroom": "绿色萤火虫",
-  "block.wildworld.blue_glowshroom": "蓝色萤火虫",
-  "block.wildworld.oak_leaf_pile": "橡木叶堆",
-  "block.wildworld.spruce_leaf_pile": "云杉叶堆",
-  "block.wildworld.birch_leaf_pile": "白桦叶堆",
-  "block.wildworld.jungle_leaf_pile": "丛林叶堆",
-  "block.wildworld.acacia_leaf_pile": "金合欢叶堆",
-  "block.wildworld.dark_oak_leaf_pile": "深色橡木叶堆"
+    "block.wildworld.green_glowshroom": "绿色荧光蘑菇",
+    "block.wildworld.blue_glowshroom": "蓝色荧光蘑菇",
+    "block.wildworld.stone_speleothem": "钟乳石",
+    "block.wildworld.sandstone_speleothem": "砂岩洞穴",
+    "block.wildworld.icicle": "冰柱",
+    
+    "block.wildworld.oak_leaf_pile": "橡木叶堆",
+    "block.wildworld.spruce_leaf_pile": "云杉叶堆",
+    "block.wildworld.birch_leaf_pile": "桦叶堆",
+    "block.wildworld.jungle_leaf_pile": "丛林树叶堆",
+    "block.wildworld.acacia_leaf_pile": "金合欢木叶堆",
+    "block.wildworld.dark_oak_leaf_pile": "深色橡木叶堆",
+    "block.wildworld.azalea_leaf_pile": "杜鹃叶堆",
+    
+    "block.wildworld.nether_thorns": "下界荆棘",
+    "block.wildworld.end_thorns": "末地荆棘",
+    
+    "death.attack.spikes": "%1$s 被冰柱刺穿",
+    "death.attack.sthorns": "%1$s 被刺死"
 }
